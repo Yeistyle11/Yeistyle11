@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=YEISON%20GARC%C3%8DA&fontSize=50&fontColor=00f2fe&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20PHP%20%26%20React&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=YEISON%20GARC%C3%8DA&fontSize=50&fontColor=00f2fe&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20PHP%20y%20React&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=600&lines=Construyendo+software+confiable;Backend+PHP+%2B+Zend+Framework;Explorando+React+%26+Node.js;Siempre+en+modo+debug+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=600&lines=Construyendo+software+confiable;Backend+PHP+%2B+Zend+Framework;Explorando+React+y+Node.js;Siempre+en+modo+debug+%F0%9F%90%9B" alt="Typing SVG" />
 </p>
 
 <p align="center">
