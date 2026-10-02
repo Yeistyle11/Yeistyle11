@@ -1,10 +1,15 @@
-<h1 align="center">¡Hola! Soy Yeison David García Arismendy 👋</h1>
-
-<h3 align="center">Ingeniero de Software en formación | Backend Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=YEISON%20GARC%C3%8DA&fontSize=50&fontColor=00f2fe&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20PHP%20%26%20React&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="mailto:Yeison.gar074@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Medell%C3%ADn%2C%20Colombia-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=600&lines=Construyendo+software+confiable;Backend+PHP+%2B+Zend+Framework;Explorando+React+%26+Node.js;Siempre+en+modo+debug+%F0%9F%90%9B" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-yeison.gar074%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=00f2fe" />
+  <img src="https://img.shields.io/badge/WhatsApp-310%204277843-0f2027?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+  <img src="https://img.shields.io/badge/Medell%C3%ADn%2C%20Colombia-0f2027?style=for-the-badge&logo=googlemaps&logoColor=00f2fe" />
 </p>
 
 ---
