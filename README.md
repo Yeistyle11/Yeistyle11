@@ -21,6 +21,38 @@ Ingeniero de Software en formación (UNIMINUTO) con experiencia en **desarrollo 
 
 ---
 
+### ⭐ Proyecto Destacado
+
+<table>
+<tr>
+<td width="100%">
+
+#### <a href="https://github.com/Yeistyle11/BeautySpot">💈 BeautySpot</a>
+
+Plataforma **SaaS multi-tenant** para gestión de barberías, salones de belleza, spas y centros estéticos en Latinoamérica. Monorepo con **8 microservicios en NestJS**, frontend en **Next.js 16**, PostgreSQL, Redis y RabbitMQ.
+
+- 🏗️ **Arquitectura de microservicios**: 8 servicios independientes (auth, core, booking, payment, notification, marketplace, analytics) detrás de un API Gateway, con 51 controladores y 235 rutas.
+- 🗄️ **Base de datos por servicio** (7 bases PostgreSQL) y **Transactional Outbox** para garantizar consistencia entre eventos y cambios de estado.
+- 🔐 Multi-tenancy real por `businessId`, inyectado por el gateway desde el JWT, e invalidación de sesión cross-service vía Redis.
+- ✅ **2,942 tests unitarios + 124 de integración**, con **92% de cobertura** como gate obligatorio en CI/CD.
+- 📅 Agenda y reservas, pagos y facturación, fidelización, analítica de negocio y marketplace público con reseñas verificadas.
+
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🛠️ Stack Tecnológico
 
 **Lenguajes & Backend**
