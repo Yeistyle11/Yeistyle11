@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Yeison David García Arismendy 👋</h1>
 
-<h3 align="center">Ingeniero de Software en formación | Backend Developer | Soporte Técnico Especializado</h3>
+<h3 align="center">Ingeniero de Software en formación | Backend Developer</h3>
 
 <p align="center">
   <a href="mailto:Yeison.gar074@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
