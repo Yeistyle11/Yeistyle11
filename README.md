@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=600&lines=Construyendo+software+confiable;Resolviendo+problemas+complejos;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Siempre+en+modo+debug+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=600&lines=Construyendo+software+confiable;Resolviendo+problemas+complejos;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,33 +14,33 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 Ingeniero de Software en formación (UNIMINUTO) con experiencia en **desarrollo backend** y **soporte especializado de aplicaciones**. Mi trayectoria está enfocada en la resolución de bugs complejos, la implementación de nuevas funcionalidades en plataformas **CMMS** y la optimización de infraestructura IT, siempre bajo metodologías ágiles.
 
-- 💼 Actualmente **Programador Backend / Soporte de Aplicativos** en **Mántum Tecnología S.A.S**, trabajando sobre la plataforma Mántum CMMS (PHP, Zend Framework, arquitectura MVC).
-- 🐛 Especializado en diagnóstico y corrección de errores críticos en entornos de producción.
-- 🧪 Participación activa en documentación técnica y pruebas de calidad (QA).
-- 🏆 Reconocido internamente como *"Solucionador Efectivo"* y por *"Compromiso Institucional"*.
-- 🌱 Formación continua: ciberseguridad, análisis de datos con Python, administración de bases de datos.
+- Actualmente **Programador Backend / Soporte de Aplicativos** en **Mántum Tecnología S.A.S**, trabajando sobre la plataforma Mántum CMMS (PHP, Zend Framework, arquitectura MVC).
+- Especializado en diagnóstico y corrección de errores críticos en entornos de producción.
+- Participación activa en documentación técnica y pruebas de calidad (QA).
+- Reconocido internamente como *"Solucionador Efectivo"* y por *"Compromiso Institucional"*.
+- Formación continua: ciberseguridad, análisis de datos con Python, administración de bases de datos.
 
 ---
 
-### ⭐ Proyecto Destacado
+### Proyecto Destacado
 
 <table>
 <tr>
 <td width="100%">
 
-#### <a href="https://github.com/Yeistyle11/BeautySpot">💈 BeautySpot</a>
+#### <a href="https://github.com/Yeistyle11/BeautySpot">BeautySpot</a>
 
 Plataforma **SaaS multi-tenant** para gestión de barberías, salones de belleza, spas y centros estéticos en Latinoamérica. Monorepo con **8 microservicios en NestJS**, frontend en **Next.js 16**, PostgreSQL, Redis y RabbitMQ.
 
-- 🏗️ **Arquitectura de microservicios**: 8 servicios independientes (auth, core, booking, payment, notification, marketplace, analytics) detrás de un API Gateway, con 51 controladores y 235 rutas.
-- 🗄️ **Base de datos por servicio** (7 bases PostgreSQL) y **Transactional Outbox** para garantizar consistencia entre eventos y cambios de estado.
-- 🔐 Multi-tenancy real por `businessId`, inyectado por el gateway desde el JWT, e invalidación de sesión cross-service vía Redis.
-- ✅ **2,942 tests unitarios + 124 de integración**, con **92% de cobertura** como gate obligatorio en CI/CD.
-- 📅 Agenda y reservas, pagos y facturación, fidelización, analítica de negocio y marketplace público con reseñas verificadas.
+- **Arquitectura de microservicios**: 8 servicios independientes (auth, core, booking, payment, notification, marketplace, analytics) detrás de un API Gateway, con 51 controladores y 235 rutas.
+- **Base de datos por servicio** (7 bases PostgreSQL) y **Transactional Outbox** para garantizar consistencia entre eventos y cambios de estado.
+- Multi-tenancy real por `businessId`, inyectado por el gateway desde el JWT, e invalidación de sesión cross-service vía Redis.
+- **2,942 tests unitarios + 124 de integración**, con **92% de cobertura** como gate obligatorio en CI/CD.
+- Agenda y reservas, pagos y facturación, fidelización, analítica de negocio y marketplace público con reseñas verificadas.
 
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -58,7 +58,7 @@ Plataforma **SaaS multi-tenant** para gestión de barberías, salones de belleza
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 **Lenguajes & Backend**
 <p>
@@ -89,7 +89,7 @@ Plataforma **SaaS multi-tenant** para gestión de barberías, salones de belleza
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yeistyle11&show_icons=true&theme=tokyonight&hide_border=true" />
